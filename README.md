@@ -17,8 +17,8 @@
 ---
 
 ### 📈 Estatísticas GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorRLK1&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRLK1&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorRLK1&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRLK1&layout=compact&theme=dark)
 
 ---
 
